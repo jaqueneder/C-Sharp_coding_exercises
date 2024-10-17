@@ -1,0 +1,10 @@
+C:\Users\I3DELL\source\repos\WindowsFormsAppListaConvidados\WindowsFormsAppListaConvidados\bin\Debug\WindowsFormsAppListaConvidados.exe.config
+C:\Users\I3DELL\source\repos\WindowsFormsAppListaConvidados\WindowsFormsAppListaConvidados\bin\Debug\WindowsFormsAppListaConvidados.exe
+C:\Users\I3DELL\source\repos\WindowsFormsAppListaConvidados\WindowsFormsAppListaConvidados\bin\Debug\WindowsFormsAppListaConvidados.pdb
+C:\Users\I3DELL\source\repos\WindowsFormsAppListaConvidados\WindowsFormsAppListaConvidados\obj\Debug\WindowsFormsAppListaConvidados.csproj.AssemblyReference.cache
+C:\Users\I3DELL\source\repos\WindowsFormsAppListaConvidados\WindowsFormsAppListaConvidados\obj\Debug\WindowsFormsAppListaConvidados.Form1.resources
+C:\Users\I3DELL\source\repos\WindowsFormsAppListaConvidados\WindowsFormsAppListaConvidados\obj\Debug\WindowsFormsAppListaConvidados.Properties.Resources.resources
+C:\Users\I3DELL\source\repos\WindowsFormsAppListaConvidados\WindowsFormsAppListaConvidados\obj\Debug\WindowsFormsAppListaConvidados.csproj.GenerateResource.cache
+C:\Users\I3DELL\source\repos\WindowsFormsAppListaConvidados\WindowsFormsAppListaConvidados\obj\Debug\WindowsFormsAppListaConvidados.csproj.CoreCompileInputs.cache
+C:\Users\I3DELL\source\repos\WindowsFormsAppListaConvidados\WindowsFormsAppListaConvidados\obj\Debug\WindowsFormsAppListaConvidados.exe
+C:\Users\I3DELL\source\repos\WindowsFormsAppListaConvidados\WindowsFormsAppListaConvidados\obj\Debug\WindowsFormsAppListaConvidados.pdb

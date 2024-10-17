@@ -1,0 +1,10 @@
+C:\Users\I3DELL\source\repos\WindowsFormsAppExercicio2\WindowsFormsAppExercicio2\bin\Debug\WindowsFormsAppExercicio2.exe.config
+C:\Users\I3DELL\source\repos\WindowsFormsAppExercicio2\WindowsFormsAppExercicio2\bin\Debug\WindowsFormsAppExercicio2.exe
+C:\Users\I3DELL\source\repos\WindowsFormsAppExercicio2\WindowsFormsAppExercicio2\bin\Debug\WindowsFormsAppExercicio2.pdb
+C:\Users\I3DELL\source\repos\WindowsFormsAppExercicio2\WindowsFormsAppExercicio2\obj\Debug\WindowsFormsAppExercicio2.csproj.AssemblyReference.cache
+C:\Users\I3DELL\source\repos\WindowsFormsAppExercicio2\WindowsFormsAppExercicio2\obj\Debug\WindowsFormsAppExercicio2.Form1.resources
+C:\Users\I3DELL\source\repos\WindowsFormsAppExercicio2\WindowsFormsAppExercicio2\obj\Debug\WindowsFormsAppExercicio2.Properties.Resources.resources
+C:\Users\I3DELL\source\repos\WindowsFormsAppExercicio2\WindowsFormsAppExercicio2\obj\Debug\WindowsFormsAppExercicio2.csproj.GenerateResource.cache
+C:\Users\I3DELL\source\repos\WindowsFormsAppExercicio2\WindowsFormsAppExercicio2\obj\Debug\WindowsFormsAppExercicio2.csproj.CoreCompileInputs.cache
+C:\Users\I3DELL\source\repos\WindowsFormsAppExercicio2\WindowsFormsAppExercicio2\obj\Debug\WindowsFormsAppExercicio2.exe
+C:\Users\I3DELL\source\repos\WindowsFormsAppExercicio2\WindowsFormsAppExercicio2\obj\Debug\WindowsFormsAppExercicio2.pdb
